@@ -679,14 +679,8 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-s48OLK6784 {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-s48OLK6784 nav.navbar {
-  position: fixed;
+.cid-s48OLK6784 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-s48OLK6784 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -992,7 +986,6 @@ a {
 }
 .cid-s48OLK6784 .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-s48OLK6784 a.nav-link {
   display: flex;
@@ -1219,14 +1212,8 @@ a {
   list-style-type: none;
   padding: 0;
 }
-.cid-sZRPIkA2EH {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-sZRPIkA2EH nav.navbar {
-  position: fixed;
+.cid-sZRPIkA2EH .navbar-dropdown {
+  position: relative !important;
 }
 .cid-sZRPIkA2EH .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1532,7 +1519,6 @@ a {
 }
 .cid-sZRPIkA2EH .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-sZRPIkA2EH a.nav-link {
   display: flex;
@@ -1759,14 +1745,8 @@ a {
   list-style-type: none;
   padding: 0;
 }
-.cid-sZS2ujzv6N {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-sZS2ujzv6N nav.navbar {
-  position: fixed;
+.cid-sZS2ujzv6N .navbar-dropdown {
+  position: relative !important;
 }
 .cid-sZS2ujzv6N .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2072,7 +2052,6 @@ a {
 }
 .cid-sZS2ujzv6N .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-sZS2ujzv6N a.nav-link {
   display: flex;
@@ -2290,14 +2269,8 @@ a {
   list-style-type: none;
   padding: 0;
 }
-.cid-sZSgVRgeXy {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-sZSgVRgeXy nav.navbar {
-  position: fixed;
+.cid-sZSgVRgeXy .navbar-dropdown {
+  position: relative !important;
 }
 .cid-sZSgVRgeXy .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2603,7 +2576,6 @@ a {
 }
 .cid-sZSgVRgeXy .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-sZSgVRgeXy a.nav-link {
   display: flex;
